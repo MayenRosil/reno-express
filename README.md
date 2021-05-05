@@ -1,5 +1,5 @@
 # PruebaTecnicaForza
-Repositorio destinado a la resolución y entrega de la Prueba Técnica para la plaza de "Desarrollador Frontend".
+Repositorio destinado a la resolución y entrega de la Prueba Técnica para el proyecto de "Desarrollador Frontend".
 
 ## Descripción
 Este repositorio consta de la Prueba Técnica para el puesto de Desarrollador en la empresa Forza.
