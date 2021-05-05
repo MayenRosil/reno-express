@@ -13,7 +13,7 @@ Consta de los elmentos requeridos durante la realización de la misma, los cuale
 
 ### Instalación:
 - Descargar el .ZIP con la raíz del proyecto
-- Ejecutar el comando ```npm i``` en la consola dentro de la carpeta del mismo
+- Ejecutar el comando ```npm i -f``` en la consola dentro de la carpeta del mismo, esto para instalar los módulos dependientes y forzar su instalación
 - Ejecutar el comando ```yarn start``` una vez instaladas las dependencias
 
 ### Proceso de Desarrollo:
