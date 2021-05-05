@@ -1,0 +1,81 @@
+.btnVerDetalle {
+    color: #FFFFFF;
+    background-color: #007BFF;
+    border-width: 0ch;
+    border-radius: 3px;
+    padding: 5px;
+    margin: auto;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3);
+}
+
+.btnVerDetalle:hover {
+    background-color: #1E71C9;
+    position: relative;
+    top: -1px;
+}
+
+.btnVerDetalle:active {
+    background-color: #2B64A1;
+    position: relative;
+    top: 1.5px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+}
+
+.headerTablaInventario{
+    background-color: #88bbf2;
+}
+
+.celdaTablaInventario{
+    text-align: center;
+    vertical-align: middle;
+    padding: 0px;
+    margin: auto;
+    position: relative;
+    overflow: hidden;
+    width: 10%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.tablaInventario{
+    table-layout: fixed;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.2);
+}
+
+.btnOrdenar{
+    border: none;
+    background-color: #88bbf2;
+    color: '#000';
+    font-weight: bold;
+}
+
+.tituloInventario{
+    margin: auto;
+    text-align: center;
+    vertical-align: middle;
+    padding: 0px;
+    margin-bottom: 25px;
+    position: relative;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-width: 1px;
+    border-bottom: #000;
+    font-weight: bold;
+}
+
+.tituloDetalleInventario{
+    color: #2B64A1;
+}
+
+.valorDetalleInventario{
+    
+}
+
+.titleDetail{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    margin: auto;
+    text-align: center;
+}
+
+.tableRowDetail:hover{
+    background-color: #e1e8f0;
+}

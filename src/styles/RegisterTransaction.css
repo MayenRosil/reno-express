@@ -1,0 +1,101 @@
+.body{
+}
+.inputFormulario {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+     border-radius: 5px;
+     border: 1px solid #2d9fd9;
+     width: 250px;
+     height: 30px;
+     padding-left: 10px;
+}
+
+.btnValidarFormulario {
+    color: #FFFFFF;
+    background-color: #60c93c;
+    border-width: 0ch;
+    border-radius: 3px;
+    padding: 5px;
+    margin: auto;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.3);
+}
+
+.btnValidarFormulario:hover {
+    background-color: #58ab3c;
+    position: relative;
+    top: -1px;
+}
+
+.btnValidarFormulario:active {
+    background-color: #417d2d;
+    position: relative;
+    top: 1.5px;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+}
+
+.formData {
+    flex-direction: column;
+    margin: auto;
+    display: flex;
+    margin-top: 5px;
+    background-color: #f2f7fc;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.formTitle {
+    flex-direction: column;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+.toastFormFail{
+    top: -150px;
+    position: fixed;
+    margin: auto;
+    position: relative;
+    z-index: 1;
+    margin: auto;
+    flex-direction: column;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    align-self: end;
+}
+
+.toastFormHeaderFail{
+    box-shadow: 0px -8px 15px rgba(0, 0, 0, 0.3);
+}
+
+.toastFormBodyFail{
+    background-color: #ED6464;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.5);
+}
+
+.toastFormSuccess{
+    top: -150px;
+    position: fixed;
+    margin: auto;
+    position: relative;
+    z-index: 1;
+    margin: auto;
+    flex-direction: column;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    align-self: end;
+}
+
+.toastFormHeaderSuccess{
+    box-shadow: 0px -8px 15px rgba(0, 0, 0, 0.3);
+}
+
+.toastFormBodySuccess{
+    background-color: #1FCF4e;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.5);
+}
+
+.tablaInventarioRegisterTransaction{
+    max-width: 600px;
+}
