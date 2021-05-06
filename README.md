@@ -5,6 +5,8 @@ Repositorio destinado a la resolución y entrega de la Prueba Técnica para el p
 Este repositorio consta de la Prueba Técnica para el puesto de Desarrollador en la empresa Forza.
 Consta de los elmentos requeridos durante la realización de la misma, los cuales se irán listando en orden de funcionalidad según el examinado.
 
+La versión Aplicación para Android puede encontrarse acá: [Versión App](https://github.com/MayenRosil/RenoExpressApp)
+
 
 ### Herramientas utilizadas:
 - Balsamiq
